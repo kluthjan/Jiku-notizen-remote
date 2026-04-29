@@ -1,4 +1,4 @@
-Git-Test Projekt (online geändert)
+Git-Test Projekt (lokal + online kombiniert)
 das ist eine neue zeile
 README.md es war einmal ein wal
 es war einmal ein wal
